@@ -39,9 +39,9 @@ export default class OurClients extends Component {
                 Deski ties into your existing tools, services, & workflow. Get
                 notifications or create story with others tools.
               </p>
-              <a href="#" className="all-button">
+              {/* <a href="/#" className="all-button">
                 See all partners <i className="flaticon-right-arrow"></i>
-              </a>
+              </a> */}
             </div>
             {/* End .col */}
           </div>

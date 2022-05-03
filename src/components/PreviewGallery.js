@@ -1,17 +1,18 @@
 import React from "react";
-import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
-import { Link } from "react-router-dom";
+import {  Tabs, TabList, TabPanel } from "react-tabs";
+// import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
+// import { Link } from "react-router-dom";
 import commingSoonImg from '../assets/images/preview/home_09.jpg'
 import EffyBuyImg from '../assets/images/preview/EffyBuy_1.jpg'
 
-const TabListContent = [
-  "All",
-  "Event Organiser",
-  "Doc Landing",
-  "Project Management",
-  "Customer Support",
-  "One Page",
-];
+// const TabListContent = [
+//   "All",
+//   "Event Organiser",
+//   "Doc Landing",
+//   "Project Management",
+//   "Customer Support",
+//   "One Page",
+// ];
 const AllDemo = [
   {
     img: EffyBuyImg,

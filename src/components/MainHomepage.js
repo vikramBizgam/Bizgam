@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import Navbar from './Navbar'
+// import Navbar from './Navbar'
 import FirstSlide from './FirstSlide'
 import PreviewGallery from './PreviewGallery'
 import Team from './Team'
 import CustomerReview from './CustomerReview'
-import Footer from './Footer'
+// import Footer from './Footer'
 import Support from './Support'
 import OurClients from './OurClients'
 

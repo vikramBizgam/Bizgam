@@ -3,7 +3,7 @@ import { BrowserRouter,
   Routes,
   Route, } from "react-router-dom";
 import React, { Component } from 'react'
-import FirstSlide from "../components/FirstSlide";
+// import FirstSlide from "../components/FirstSlide";
 import MainHomepage from "../components/MainHomepage";
 import ComingSoon from "../components/CommingSoon";
 import Footer from '../components/Footer'
@@ -16,19 +16,19 @@ export default class Router extends Component {
       <>
       <BrowserRouter>
           <Routes>
-          <Route path="/" element={<Navbar />} />
+          <Route path="/Bizgam" element={<Navbar />} />
           </Routes>
           <Routes>
-          <Route path="/" element={<MainHomepage />} />
+          <Route path="/Bizgam" element={<MainHomepage />} />
           </Routes>
           <Routes>
-          <Route path="/coming-soon" element={<ComingSoon />} />
+          <Route path="/Bizgam/coming-soon" element={<ComingSoon />} />
           </Routes>
           <Routes>
-          <Route path="/" element={<TeamPerson />} />
+          <Route path="/Bizgam/Team" element={<TeamPerson />} />
           </Routes>
           <Routes>
-          <Route path="/" element={<Footer />} />
+          <Route path="/Bizgam" element={<Footer />} />
           </Routes>
       </BrowserRouter>
       </>
