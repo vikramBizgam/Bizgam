@@ -61,7 +61,7 @@ export default class FirstSlide extends Component {
               />
             </div>
             <p className="review-text">
-              Over <span>150,000+ client</span> all over the world.
+              Over <span>100+ client</span> discovered a Positive change in their Business.
             </p>
           </div>
           {/* End .col */}
@@ -69,7 +69,9 @@ export default class FirstSlide extends Component {
           <div className="col-lg-6 order-lg-first">
             <div className="text-wrapper">
               <h1 data-aos="fade-up" data-aos-duration="1200">
-                <span>Event ticket</span> organiser & seller.
+                {/* <span>Applying Intelligence</span> to drive an effective change in your Business. */}
+                <span>Simple SaaS Platform</span> to bring a Massive transition in your Business.
+                {/* <span>Event ticket</span> organiser & seller. */}
               </h1>
               <p
                 className="sub-text"
@@ -77,10 +79,11 @@ export default class FirstSlide extends Component {
                 data-aos-duration="1200"
                 data-aos-delay="100"
               >
-                For hassale free event, we are here to help you by creating
-                online ticket.
+                {/* For hassale free event, we are here to help you by creating
+                online ticket. */}
+                We are here to Simplify your Business Processes and drive Efficiency, Productivity and a Continual Improvement.
               </p>
-              <Link
+              {/* <Link
                 to="/login"
                 className="theme-btn-five"
                 data-aos="fade-up"
@@ -89,7 +92,7 @@ export default class FirstSlide extends Component {
               >
                 {" "}
                 Let’s get started
-              </Link>
+              </Link> */}
             </div>
             {/* /.text-wrapper */}
           </div>

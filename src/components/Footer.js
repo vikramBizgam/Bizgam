@@ -49,7 +49,7 @@ export default class Footer extends Component {
         <div className="title">We’r always happy to help.</div>
         <div className="text-center">
           <a href="mailto:ib-themes21@gmail.com" className="email">
-            ask@jdeski.com
+          support@bizgam.com
           </a>
         </div>
       </div>

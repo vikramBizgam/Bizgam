@@ -28,8 +28,8 @@ const Header = () => {
           </div>
           {/* End logo */}
 
-          {/* <div className="order-md-3 d-flex align-items-center">
-            <a
+          <div className="order-md-3 d-flex align-items-center">
+            {/* <a
               href="https://themeforest.net/user/ib-themes/portfolio"
               className="menu-btn more_themes font-rubik"
               target="_blank"
@@ -45,7 +45,7 @@ const Header = () => {
               rel="noreferrer"
             >
               Buy Deski
-            </a>
+            </a> */}
             <div className="mob-header">
               <button className="toggler-menu" onClick={handleClick}>
                 <div className={click ? "active" : ""}>
@@ -55,7 +55,7 @@ const Header = () => {
                 </div>
               </button>
             </div>
-          </div> */}
+          </div>
           {/* End div */}
 
           <nav

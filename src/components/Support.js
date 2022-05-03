@@ -12,10 +12,10 @@ const Support = () => {
           <div className="col-lg-8 m-auto">
             <p className="font-rubik">
               Need techical help? Do not hesitate to send us a message via our{" "}
-              <a href="mailto:heloshape18@gmail.com">support email</a>. We're
+              <a href="mailto:support@bizgam.com">support email</a>. We're
               happy to help.
             </p>
-            <a href="mailto:ib-themes21@gmail.com" className="btn-one">
+            <a href="mailto:support@bizgam.com" className="btn-one">
               Go to support
             </a>
           </div>

@@ -22,7 +22,7 @@ export default class MainHomepage extends Component {
             <FirstSlide/>
           </div>
 
-          <div className="home-demo-section pt-150" id="products">
+          <div className="home-demo-section pt-150 pb-100" id="products">
               <img
                 src={HpmeDemo}
                 alt="home-demo"
@@ -35,9 +35,13 @@ export default class MainHomepage extends Component {
                       Products <img src={ProductDemoLine} alt="demo" />
                     </span>
                   </h2>
-                  <p className="font-rubik txt-lg">
+                  {/* <p className="font-rubik txt-lg">
                     You will get over <span>11 Demo template</span> for only{" "}
                     <span style={{ color: "#ff7373" }}>$8</span>
+                  </p> */}
+                  <p className="font-rubik txt-lg">
+                    You will realize Profit and <span style={{ color: "#ff7373" }}>5x</span> efficiency at unmarginable costs
+                    {/* <span style={{ color: "#ff7373" }}>$8</span> */}
                   </p>
                   <p className="font-rubik txt-sm">More will be comming soon...</p>
                 </div>

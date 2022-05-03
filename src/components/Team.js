@@ -103,7 +103,7 @@ export default class Team extends Component {
         <div className="container">
           <div className="title-style-five text-center mb-90 md-mb-60">
             <h6>Our Guiding Force</h6>
-            <h2>The team behind EffyBuy </h2>
+            <h2>The team behind BizGam </h2>
           </div>
 
           <div className="team-wrapper">

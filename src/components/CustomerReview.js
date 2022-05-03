@@ -16,9 +16,9 @@ const settings = {
 
 const TestimonilContent = [
     {
-      desc: ` Having a home based business is a wonderful asset to your life. The problem still stands it comes time advertise your business for a cheap cost. I know you have looked answer everywhere.`,
-      reviewerName: "Jannatul Ekra",
-      designation: "Designer",
+      desc: `The Automation provides us a Seamless users experience with realizes cost savings, real-time reports with minimal Training. The Pain points of our Business are solved through your Realtime efforts.`,
+      reviewerName: "Mr. firstname lastname",
+      designation: "Bull Machines Pvt Ltd.",
     },
     {
       desc: `Having a home based business is a wonderful asset to your life. The problem still stands it comes time advertise your business for a cheap cost. I know you have looked answer everywhere.`,
@@ -30,7 +30,7 @@ const TestimonilContent = [
 export default class CustomerReview extends Component {
   render() {
     return (
-        <div className="client-feedback-slider-three mb-250 ">
+        <div className="client-feedback-slider-three mb-250 pt-100 ">
         <div className="container">
           <div className="title-style-five text-center mb-80 md-mb-50">
             <div className="row">

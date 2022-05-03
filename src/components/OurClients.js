@@ -22,7 +22,7 @@ const BrandImages = [
 export default class OurClients extends Component {
   render() {
     return (
-        <div className="useable-tools-section-three pt-200 pb-200 md-pt-100 md-pb-80 overflow-hidden">
+        <div className="useable-tools-section-three pt-100 pb-100 md-pt-100 md-pb-80 overflow-hidden">
         <div className="container" style={{"padding":"105px 0 170px"}}>
           <div className="row">
             <div className="col-lg-6">
@@ -36,8 +36,10 @@ export default class OurClients extends Component {
                 </h2>
               </div>
               <p className="sub-text">
-                Deski ties into your existing tools, services, & workflow. Get
-                notifications or create story with others tools.
+                {/* Deski ties into your existing tools, services, & workflow. Get
+                notifications or create story with others tools. */}
+                We automate the processes of various Manufacturing Segments, FMCG, Aviation and much more...<br/>
+                We welcome you to join the Club and Bring a tremendous change in your Organization.
               </p>
               {/* <a href="/#" className="all-button">
                 See all partners <i className="flaticon-right-arrow"></i>
