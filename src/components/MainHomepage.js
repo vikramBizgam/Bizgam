@@ -40,7 +40,7 @@ export default class MainHomepage extends Component {
                     <span style={{ color: "#ff7373" }}>$8</span>
                   </p> */}
                   <p className="font-rubik txt-lg">
-                    You will realize Profit and <span style={{ color: "#ff7373" }}>5x</span> efficiency at unmarginable costs
+                    You will realize Profit and <span style={{ color: "#ff7373" }}>5x</span> Efficiency at unimaginable costs
                     {/* <span style={{ color: "#ff7373" }}>$8</span> */}
                   </p>
                   <p className="font-rubik txt-sm">More will be comming soon...</p>
