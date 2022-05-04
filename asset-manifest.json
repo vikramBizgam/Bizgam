@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Bizgam/static/css/main.a8d02748.css",
-    "main.js": "/Bizgam/static/js/main.fb2b3193.js",
+    "main.css": "/Bizgam/static/css/main.2efbcd25.css",
+    "main.js": "/Bizgam/static/js/main.f5d8bfa4.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Bizgam/static/js/787.c4e7f8f9.chunk.js",
     "static/media/bg3.svg": "/Bizgam/static/media/bg3.0bddb0cac80792b820fe.svg",
     "static/media/bg2.svg": "/Bizgam/static/media/bg2.19a08be2ba68333b7fdb.svg",
@@ -162,12 +162,12 @@
     "static/media/76.svg": "/Bizgam/static/media/76.178aed43f5bc0768ac35.svg",
     "static/media/182.svg": "/Bizgam/static/media/182.5bc06fed5bbc0903df45344bae929263.svg",
     "static/media/185.svg": "/Bizgam/static/media/185.23ead359ccd06ce2199e7367a3a4a4da.svg",
-    "main.a8d02748.css.map": "/Bizgam/static/css/main.a8d02748.css.map",
-    "main.fb2b3193.js.map": "/Bizgam/static/js/main.fb2b3193.js.map",
+    "main.2efbcd25.css.map": "/Bizgam/static/css/main.2efbcd25.css.map",
+    "main.f5d8bfa4.js.map": "/Bizgam/static/js/main.f5d8bfa4.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Bizgam/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8d02748.css",
-    "static/js/main.fb2b3193.js"
+    "static/css/main.2efbcd25.css",
+    "static/js/main.f5d8bfa4.js"
   ]
 }
