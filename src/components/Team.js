@@ -61,6 +61,10 @@ const SliderContent = [
           icon: "fa fa-linkedin",
           link: "https://www.linkedin.com/",
         },
+        {
+          icon: "fa fa-gmail",
+          link: "https://www.linkedin.com/",
+        },
       ],
     },
   ];

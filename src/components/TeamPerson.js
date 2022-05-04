@@ -33,21 +33,13 @@ export default function TeamPerson() {
     Experience: ` Lorem ipsum dolor amet, consetre adipiscing elit, sed do eiusmod
     tempor incididunt`,
     social: [
+      // {
+      //   icon: "fa fa-linkedin",
+      //   link: "https://www.facebook.com/",
+      // },
       {
-        icon: "fa fa-facebook",
-        link: "https://www.facebook.com/",
-      },
-      {
-        icon: "fa fa-twitter",
-        link: "https://twitter.com/",
-      },
-      {
-        icon: "fa fa-dribbble",
-        link: "https://dribbble.com/",
-      },
-      {
-        icon: "fa fa-linkedin",
-        link: "https://www.linkedin.com/",
+        icon: "fa fa-envelope",
+        link: "mailto:admin@bizgam.com",
       },
     ],
   },
@@ -66,20 +58,12 @@ export default function TeamPerson() {
     tempor incididunt`,
     social: [
       {
-        icon: "fa fa-facebook",
-        link: "https://www.facebook.com/",
-      },
-      {
-        icon: "fa fa-twitter",
-        link: "https://twitter.com/",
-      },
-      {
-        icon: "fa fa-dribbble",
-        link: "https://dribbble.com/",
+        icon: "fa fa-envelope",
+        link: "mailto:anup@bizgam.com",
       },
       {
         icon: "fa fa-linkedin",
-        link: "https://www.linkedin.com/",
+        link: "https://www.linkedin.com/in/anup-agarwal/",
       },
     ],
   },
@@ -95,20 +79,12 @@ export default function TeamPerson() {
     tempor incididunt`,
     social: [
       {
-        icon: "fa fa-facebook",
-        link: "https://www.facebook.com/",
-      },
-      {
-        icon: "fa fa-twitter",
-        link: "https://twitter.com/",
-      },
-      {
-        icon: "fa fa-dribbble",
-        link: "https://dribbble.com/",
+        icon: "fa fa-envelope",
+        link: "mailto:admin@bizgam.com",
       },
       {
         icon: "fa fa-linkedin",
-        link: "https://www.linkedin.com/",
+        link: "https://www.linkedin.com/in/jebanesan-croos-77373723/",
       },
     ],
   }
