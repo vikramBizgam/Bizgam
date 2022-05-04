@@ -6,52 +6,31 @@ import shape126 from '../assets/images/shape/126.svg'
 import img66 from '../assets/images/media/img_66.png'
 import img67 from '../assets/images/media/img_67.png'
 import img68 from '../assets/images/media/img_68.png'
+import Anup from '../assets/images/media/anup_agarwal.jpg'
+import Parthiban from '../assets/images/media/parthiban.jpeg'
+import jebanesan from '../assets/images/media/jebanesan.jpg'
 
 const TeamContent = [
   {
     designation: "Chairman & Director",
     name: "Parthiban V",
-    img: img66,
+    img: Parthiban,
     animationDelay: "200",
-    data : {
-        bigImage: "img_104",
-        name: "Parthiban V",
-        designation: "Chairman & Director",
-        aboutDetails: `Lorem ipsum dolor amet, consetre adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dole magna aliqua. Ut enim`,
-        Experience: ` Lorem ipsum dolor amet, consetre adipiscing elit, sed do eiusmod
-        tempor incididunt`,
-        social: [
-          {
-            icon: "fa fa-facebook",
-            link: "https://www.facebook.com/",
-          },
-          {
-            icon: "fa fa-twitter",
-            link: "https://twitter.com/",
-          },
-          {
-            icon: "fa fa-dribbble",
-            link: "https://dribbble.com/",
-          },
-          {
-            icon: "fa fa-linkedin",
-            link: "https://www.linkedin.com/",
-          },
-        ],
-      },
+    id: 1
   },
   {
     designation: "Director",
     name: "Anup Agarwal",
-    img: img67,
+    img: Anup,
     animationDelay: "250",
+    id:2,
   },
   {
     designation: "Director & CTO",
     name: "Jebanesan Croos ",
-    img: img68,
+    img: jebanesan,
     animationDelay: "300",
+    id:3
   },
  
 ];
@@ -116,8 +95,10 @@ export default class Team extends Component {
           data-aos-delay={item.animationDelay}
           key={i}
         >
+          {/* <Link 
+      to= '/Bizgam/parthiban' className="team-member"> */}
           <Link to={{
-      pathname: '/parthiban',
+      pathname: `/Bizgam/${item.id}`,
       data: item.data,
     }} className="team-member">
             <div className="img-holder">
