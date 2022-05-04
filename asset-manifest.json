@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bizgam/static/css/main.a8d02748.css",
-    "main.js": "/Bizgam/static/js/main.a23a2801.js",
+    "main.js": "/Bizgam/static/js/main.fb2b3193.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Bizgam/static/js/787.c4e7f8f9.chunk.js",
     "static/media/bg3.svg": "/Bizgam/static/media/bg3.0bddb0cac80792b820fe.svg",
     "static/media/bg2.svg": "/Bizgam/static/media/bg2.19a08be2ba68333b7fdb.svg",
@@ -25,6 +25,7 @@
     "static/media/Recoleta-Thin.ttf": "/Bizgam/static/media/Recoleta-Thin.b5e71540ded3fbceca5c.ttf",
     "static/media/Recoleta-Black.eot": "/Bizgam/static/media/Recoleta-Black.b5907348e7bf1af8ffb7.eot",
     "static/media/Recoleta-Black.ttf": "/Bizgam/static/media/Recoleta-Black.4cddb7fcdf4e1e13f708.ttf",
+    "static/media/jebanesan.jpg": "/Bizgam/static/media/jebanesan.57c266459e6416e5e463.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Bizgam/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/9.svg": "/Bizgam/static/media/9.5754439e515865d0d8d8.svg",
     "static/media/161.svg": "/Bizgam/static/media/161.878ed935ab77a853276b.svg",
@@ -42,6 +43,7 @@
     "static/media/Recoleta-Thin.woff": "/Bizgam/static/media/Recoleta-Thin.52259d75fad138732c1d.woff",
     "static/media/Recoleta-Medium.woff": "/Bizgam/static/media/Recoleta-Medium.2fd4ee0e106c2976036e.woff",
     "static/media/Recoleta-Black.woff": "/Bizgam/static/media/Recoleta-Black.ebe1fb1f82cc93fb602a.woff",
+    "static/media/parthiban_.jpeg": "/Bizgam/static/media/parthiban_.c176ec6fa2172caf6342.jpeg",
     "static/media/home_09.jpg": "/Bizgam/static/media/home_09.e5ace896dffd69f71550.jpg",
     "static/media/ils_03.svg": "/Bizgam/static/media/ils_03.33257d71c3c6529f260b.svg",
     "static/media/Recoleta-Regular.woff2": "/Bizgam/static/media/Recoleta-Regular.f7f2da3f7d1f78b3f788.woff2",
@@ -54,6 +56,7 @@
     "static/media/Recoleta-Black.woff2": "/Bizgam/static/media/Recoleta-Black.7fcc2c1c4be64058bde6.woff2",
     "static/media/gordita_medium-webfont.woff": "/Bizgam/static/media/gordita_medium-webfont.c4b45d805734ad3c6e60.woff",
     "static/media/gordita_regular-webfont.woff": "/Bizgam/static/media/gordita_regular-webfont.806ea727c08eb51d4fd1.woff",
+    "static/media/anup_agarwal.jpg": "/Bizgam/static/media/anup_agarwal.534d54c558ce4bac664c.jpg",
     "static/media/13.svg": "/Bizgam/static/media/13.e1a9707357a1133a8144.svg",
     "static/media/gilroy-bold-webfont.woff": "/Bizgam/static/media/gilroy-bold-webfont.2d82d5446922a0f9e739.woff",
     "static/media/gilroy-black-webfont.woff": "/Bizgam/static/media/gilroy-black-webfont.c80d2fcefd3b628d6a13.woff",
@@ -69,6 +72,7 @@
     "static/media/gilroy-black-webfont.woff2": "/Bizgam/static/media/gilroy-black-webfont.2435d96d3537c0ec9291.woff2",
     "static/media/gilroy-light-webfont.woff2": "/Bizgam/static/media/gilroy-light-webfont.303802eb7724c0d565e0.woff2",
     "static/media/gilroy-ultralight-webfont.woff2": "/Bizgam/static/media/gilroy-ultralight-webfont.858e04616100bf1a7d70.woff2",
+    "static/media/parthiban.jpeg": "/Bizgam/static/media/parthiban.a9339e770dd410103eca.jpeg",
     "static/media/img_77.png": "/Bizgam/static/media/img_77.42096d2031017c3fa69c.png",
     "static/media/45.svg": "/Bizgam/static/media/45.360ac35ebf7935be1692.svg",
     "static/media/44.svg": "/Bizgam/static/media/44.540aaa043285cc5a8962.svg",
@@ -159,11 +163,11 @@
     "static/media/182.svg": "/Bizgam/static/media/182.5bc06fed5bbc0903df45344bae929263.svg",
     "static/media/185.svg": "/Bizgam/static/media/185.23ead359ccd06ce2199e7367a3a4a4da.svg",
     "main.a8d02748.css.map": "/Bizgam/static/css/main.a8d02748.css.map",
-    "main.a23a2801.js.map": "/Bizgam/static/js/main.a23a2801.js.map",
+    "main.fb2b3193.js.map": "/Bizgam/static/js/main.fb2b3193.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Bizgam/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8d02748.css",
-    "static/js/main.a23a2801.js"
+    "static/js/main.fb2b3193.js"
   ]
 }
