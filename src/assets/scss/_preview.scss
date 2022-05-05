@@ -398,7 +398,9 @@ body .btn-one:hover {
   box-shadow: 0px 13px 35px -12px rgba(35, 35, 35, 0.15);
 }
 .landing-menu .logo {
-  width: 292px;
+  // update new
+  width: 150px;
+  // width: 292px;
 }
 .landing-menu .logo a {
   display: block;
@@ -899,7 +901,9 @@ body .btn-one:hover {
 }
 @media (max-width: 1366px) {
   .landing-menu .logo {
-    width: auto;
+    // update new
+    width: 150px;
+    // width: auto;
   }
   .theme-feature {
     margin-top: 150px;

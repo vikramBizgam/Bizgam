@@ -26,7 +26,7 @@ export default class Router extends Component {
           </Routes>
 
           <Routes>
-          <Route path="/Bizgam/:person" element={<TeamPerson />} />
+          <Route path="/Bizgam/team/:person" element={<TeamPerson />} />
           </Routes>
 
           {/* <Route path="Bizgam/Team" element={<TeamPerson />}>

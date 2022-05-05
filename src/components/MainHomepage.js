@@ -22,7 +22,7 @@ export default class MainHomepage extends Component {
             <FirstSlide/>
           </div>
 
-          <div className="home-demo-section pt-150 pb-100" id="products">
+          <div className="home-demo-section pt-150 pb-0" id="products">
               <img
                 src={HpmeDemo}
                 alt="home-demo"

@@ -1,8 +1,8 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Router from './router/Routes';
 // import { BrowserRouter as Router} from "react-router-dom";
-import FirstSlide from './components/FirstSlide';
+// import FirstSlide from './components/FirstSlide';
 import React, { useEffect } from "react";
 import ScrollToTop from './components/ScrollTop';
 // import Routes from "./router/Routes";

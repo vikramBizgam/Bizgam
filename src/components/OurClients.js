@@ -1,29 +1,32 @@
 import React, { Component } from 'react'
-import logo32 from '../assets/images/logo/logo-32.png'
-import logo33 from '../assets/images/logo/logo-33.png'
-import logo34 from '../assets/images/logo/logo-34.png'
-import logo35 from '../assets/images/logo/logo-35.png'
-import logo36 from '../assets/images/logo/logo-36.png'
-import logo37 from '../assets/images/logo/logo-37.png'
-import logo38 from '../assets/images/logo/logo-38.png'
+import bull from '../assets/images/logo/bull-machine-logo.png'
+import GoAir from '../assets/images/logo/GoAirlines.png'
+import propel from '../assets/images/logo/propel.png'
+import mrp from '../assets/images/logo/MadrasRdiators&Pressings.jpg'
 
 import shape1 from '../assets/images/shape/line-shape-10.svg'
 
 const BrandImages = [
-    logo32,
-    logo33,
-    logo34,
-    logo35,
-    logo36,
-    logo37,
-    logo38,
+    // logo32,
+    // logo33,
+    // logo34,
+    // logo35,
+    // logo36,
+    // logo37,
+    // logo38,
+    mrp,
+    propel,
+    bull,
+    GoAir,
+    // GoAir,
+    // ''
   ];
 
 export default class OurClients extends Component {
   render() {
     return (
-        <div className="useable-tools-section-three pt-100 pb-100 md-pt-100 md-pb-80 overflow-hidden">
-        <div className="container" style={{"padding":"105px 0 170px"}}>
+        <div className="useable-tools-section-three pt-100 pb-100 md-pt-80 md-pb-80 overflow-hidden">
+        <div className="container" >
           <div className="row">
             <div className="col-lg-6">
               <div className="title-style-four">

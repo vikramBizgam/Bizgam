@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import shape from '../assets/images/icon/65.svg'
 
 const settings = {
     dots: false,
@@ -45,7 +46,7 @@ export default class CustomerReview extends Component {
           <div className="row">
             <div className="col-xl-7 col-lg-9 m-auto">
               <div className="testimonial-slider-wrapper">
-                <img src="images/icon/65.svg" alt="icon" className="m-auto" />
+                <img src={shape}alt="icon" className="m-auto" />
                 <div className="clientSliderThree">
                 <Slider {...settings}>
       {TestimonilContent.map((val, i) => (
@@ -69,7 +70,7 @@ export default class CustomerReview extends Component {
           </div>
         </div>
         {/* /.container */}
-        <img
+        {/* <img
           src="images/media/img_59.png"
           alt="media"
           className="shapes shape_1"
@@ -98,7 +99,7 @@ export default class CustomerReview extends Component {
           src="images/media/img_64.png"
           alt="media"
           className="shapes shape_6"
-        />
+        /> */}
       </div>
     )
   }

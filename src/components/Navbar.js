@@ -1,6 +1,9 @@
 import React, { useState } from "react";
 import Scrollspy from "react-scrollspy";
-import logo from '../assets/images/logo/deski_01.svg'
+import logo from '../assets/images/logo/Bizgam_logo_.png'
+// import closeImg from '../assets/images/icon/close.svg'
+import { Link } from "react-router-dom";
+
 
 const Header = () => {
   const [click, setClick] = useState(false);
@@ -22,9 +25,9 @@ const Header = () => {
       <div className="container-fluid">
         <div className="d-flex align-items-center justify-content-between">
           <div className="logo order-md-1">
-            <a href="/">
-              <img src={logo} alt="home-demo" />
-            </a>
+            <Link to='/Bizgam'>
+              <img src={logo} alt="Bizgam_logo" />
+            </Link>
           </div>
           {/* End logo */}
 
@@ -128,11 +131,11 @@ const Header = () => {
           <div className={click ? "mobile-menu menu-open" : "mobile-menu"}>
             <div className="logo order-md-1">
               <a href="#intro">
-                <img src="/images/logo/deski_01.svg" alt="home-demo" />
+                <img src={logo} alt="home-demo" />
               </a>
-              <div className="fix-icon text-dark" onClick={handleClick}>
-                <img src="images/icon/close.svg" alt="icon" />
-              </div>
+              {/* <div className="fix-icon text-dark" onClick={handleClick}>
+                <img src={closeImg} alt="icon" />
+              </div> */}
               {/* Mobile Menu close icon */}
             </div>
 

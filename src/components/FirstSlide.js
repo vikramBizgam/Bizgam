@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import img100 from '../assets/images/shape/100.svg'
 import img101 from '../assets/images/shape/101.svg'
 import img102 from '../assets/images/shape/102.svg'

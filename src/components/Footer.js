@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import logo from '../assets/images/logo/Bizgam_logo_.png'
+
 
 const socialContent = [
     {
@@ -24,9 +26,9 @@ export default class Footer extends Component {
           <div className="row justify-content-center align-items-center">
       <div className="col-lg-4">
         <div className="logo">
-          <a href="index.html">
-            <img src="images/logo/deski_06.svg" alt="brand" />
-          </a>
+          {/* <a href="index.html"> */}
+            <img src={logo} alt="bizgam_logo" style={{    "width": "35%","margin": "auto"}}/>
+          {/* </a> */}
         </div>
       </div>
       {/* End .col */}
